@@ -67,4 +67,4 @@ A keyboard is needed to play VikinGO.
 
 <img src="https://github.com/AlejandroDCastro/VikinGO/blob/main/pics/pic2.png" alt="Picture 2" width="700">
 
-If you want to enjoy for yourself VikinGO, please check the links above. :grinning:
+If you want to enjoy VikinGO for yourself, please check the links above. :grinning:
