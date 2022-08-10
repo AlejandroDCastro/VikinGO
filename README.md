@@ -1,7 +1,7 @@
 # VikinGO
 **VikinGO - Shattered honor** is a videogame developed by Aesir Rune team for [UAGames](http://uagames.byterealms.com/) 2020/21.
 <br>
-Final project in the *Creation and Digital Entertainment* itinerary.
+Final project in the *Creation and Digital Entertainment* itinerary from Multimedia Engineering degree.
 
 See the official trailer [here](https://www.youtube.com/watch?v=A0nJWFiLqVY). :tv:
 <br>
